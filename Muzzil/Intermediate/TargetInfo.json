@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Muzzil",
+			"Path": "..\\Source\\Muzzil.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MuzzilEditor",
+			"Path": "..\\Source\\MuzzilEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
