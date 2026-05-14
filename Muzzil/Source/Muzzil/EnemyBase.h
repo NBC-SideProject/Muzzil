@@ -1,9 +1,8 @@
-#pragma once
+	#pragma once
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
 #include "EnemyBase.generated.h"
-
 
 UCLASS()
 class MUZZIL_API AEnemyBase : public ACharacter
